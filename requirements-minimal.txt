@@ -1,0 +1,4 @@
+apache-beam==2.19.0
+pandas==0.25.3
+scikit-learn==0.22.1
+srsly==1.0.1
