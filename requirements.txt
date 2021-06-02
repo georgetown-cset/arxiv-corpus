@@ -66,6 +66,6 @@ thinc==7.3.1
 tqdm==4.42.1
 typing==3.7.4.1
 typing-extensions==3.7.4.1
-urllib3==1.25.8
+urllib3==1.26.5
 wasabi==0.6.0
 zipp==2.1.0
